@@ -13,8 +13,8 @@ function App() {
                     <Link className='font-extrabold text-2xl' to='/'>#VANLIFE</Link>
                 </div>
                 <div className='flex gap-4 justify-center'>
-                    <Link to='/about'>Home</Link>
-                    <Link to='/van'>About</Link>
+                    <Link to='/about'>About</Link>
+                    <Link to='/van'>Home</Link>
                 </div>
 
             </div>
